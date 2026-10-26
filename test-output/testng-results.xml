@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-23T11:47:48 IST" name="GroupingSuite" finished-at="2026-10-23T11:48:43 IST" duration-ms="55188">
+    <groups>
+      <group name="Master">
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@2cae1042]" name="verify_login" class="testCases.LoginTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.verify_login()[pri:0, instance:testCases.LoginTest@2cae1042]" name="verify_login" class="testCases.LoginTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2026-10-23T11:47:48 IST" name="GroupTest" finished-at="2026-10-23T11:48:43 IST" duration-ms="55188">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@2cae1042]" started-at="2026-10-23T11:47:49 IST" name="setup" finished-at="2026-10-23T11:48:21 IST" duration-ms="32437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.LoginTest@2cae1042]" started-at="2026-10-23T11:48:21 IST" name="verify_login" finished-at="2026-10-23T11:48:43 IST" duration-ms="22044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@2cae1042]" started-at="2026-10-23T11:48:43 IST" name="tearDown" finished-at="2026-10-23T11:48:43 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+    </test> <!-- GroupTest -->
+  </suite> <!-- GroupingSuite -->
+</testng-results>

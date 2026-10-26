@@ -1,0 +1,57 @@
+11:15:13.767 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+11:15:19.606 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+11:15:20.395 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+11:15:26.858 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+11:15:26.895 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+11:15:29.470 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: edge
+11:15:34.696 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:15:42.560 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:29:56.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\src\test\java\testng.xml
+
+11:30:00.295 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: chrome
+11:30:04.793 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****
+11:30:04.838 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+11:30:09.864 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+11:30:10.706 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+11:30:57.125 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+11:30:57.163 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+11:30:59.033 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: chrome
+11:31:03.829 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:31:22.126 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:31:25.530 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: edge
+11:31:30.863 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****
+11:31:30.865 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+11:31:36.004 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+11:31:37.191 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+11:31:44.470 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+11:31:44.507 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+11:31:46.779 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: edge
+11:31:51.222 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:32:15.630 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:51:38.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\src\test\java\testng.xml
+
+11:51:41.423 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: chrome
+11:51:45.812 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****
+11:51:45.846 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+11:51:46.183 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+11:51:54.824 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+11:52:01.888 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+11:52:01.945 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+11:52:04.489 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: chrome
+11:52:11.858 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:52:27.125 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:52:28.987 [main] INFO  testCases.LoginDataDrivenTest - Running on OS: windows, browser: chrome
+11:52:37.886 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+11:53:19.388 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+11:54:17.985 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+11:54:17.995 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: wronguser123@gmail.com *****
+11:54:37.315 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+11:54:37.322 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: fake.user@gmail.com *****
+11:54:54.099 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:00:47.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\src\test\java\testng.xml
+
+12:00:50.132 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: edge
+12:01:00.808 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****

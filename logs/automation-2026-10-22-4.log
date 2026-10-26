@@ -1,0 +1,45 @@
+12:01:00.841 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+12:01:08.793 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+12:01:09.694 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+12:01:19.100 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+12:01:19.138 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+12:01:21.483 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: edge
+12:01:31.689 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+12:01:37.772 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+12:01:39.747 [main] INFO  testCases.LoginDataDrivenTest - Running on OS: windows, browser: edge
+12:01:50.144 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+12:02:10.805 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:02:10.812 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+12:04:18.233 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: wronguser123@gmail.com *****
+12:04:34.398 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:04:34.406 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: fake.user@gmail.com *****
+12:04:50.600 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:11:15.899 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\src\test\java\testng.xml
+
+12:11:19.902 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: edge
+12:11:40.066 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****
+12:11:40.089 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+12:11:42.300 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+12:11:43.860 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+12:11:51.031 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+12:11:51.071 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+12:11:53.620 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: edge
+12:12:09.037 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+12:15:26.295 [main] ERROR testCases.LoginTest - Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-qa='login-button']"}
+  (Session info: MicrosoftEdge=155.0.4283.62)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.10'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aeb2955f89f8ab2a4b06dfb99e331f48, findElement {using=xpath, value=//button[@data-qa='login-button']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 155.0.4283.62, fedcm:accounts: true, goog:processID: 10936, ms:edgeOptions: {debuggerAddress: localhost:57515}, msedge: {msedgedriverVersion: 155.0.4283.62 (aa3a7406ba8c..., userDataDir: C:\Windows\SystemTemp\scope...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57515/devtoo..., se:cdpVersion: 155.0.4283.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aeb2955f89f8ab2a4b06dfb99e331f48
+12:15:30.312 [main] INFO  testCases.LoginDataDrivenTest - Running on OS: windows, browser: edge
+12:15:39.348 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+12:15:59.402 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:15:59.414 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+12:16:16.648 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:16:16.666 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: wronguser123@gmail.com *****
+12:16:33.264 [main] INFO  testCases.LoginDataDrivenTest - ***** Finished LoginDataDrivenTest *****
+12:16:33.268 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: fake.user@gmail.com *****

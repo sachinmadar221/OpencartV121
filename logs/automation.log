@@ -1,0 +1,51 @@
+14:36:42.111 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+14:37:53.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\testng.xml
+
+14:37:53.929 [main] INFO  testCases.AccountRegistrationTest - Running on OS: windows, browser: chrome
+14:38:01.991 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegistrationTest *****
+14:38:02.039 [main] INFO  testCases.AccountRegistrationTest - Providing name and email for signup
+14:38:27.734 [main] INFO  testCases.AccountRegistrationTest - Providing account details
+14:38:28.788 [main] INFO  testCases.AccountRegistrationTest - Providing address details
+14:38:36.104 [main] INFO  testCases.AccountRegistrationTest - Validating confirmation message
+14:38:36.151 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegistrationTest *****
+14:38:36.460 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: chrome
+14:38:44.338 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+14:38:53.547 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+14:38:54.128 [main] INFO  testCases.LoginDataDrivenTest - Running on OS: windows, browser: chrome
+14:39:05.425 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+14:43:11.249 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: sachin221@gmail.com *****
+14:43:31.700 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: wronguser123@gmail.com *****
+14:43:52.157 [main] INFO  testCases.LoginDataDrivenTest - ***** Starting LoginDataDrivenTest for: fake.user@gmail.com *****
+10:31:41.902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\grouping.xml
+
+10:31:42.392 [main] INFO  testCases.LoginTest - Running on OS: windows, browser: chrome
+10:35:19.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\grouping.xml
+
+10:35:19.975 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+10:35:32.801 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+10:35:48.614 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:11:32.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\grouping.xml
+
+11:11:33.343 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+11:11:57.704 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:12:01.897 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+11:47:48.627 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_SELENIUM_WORKSPACE\OpencartV121\grouping.xml
+
+11:47:49.086 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+11:48:21.528 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+11:48:43.559 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+12:14:26.664 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+12:20:35.452 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+12:20:50.843 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+12:20:59.212 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+12:41:38.891 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+12:41:50.875 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+12:42:16.741 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
+12:50:12.712 [main] INFO  testCases.LoginTest - Running on OS: linux, browser: chrome
+12:50:22.646 [main] INFO  testCases.LoginTest - ***** Starting LoginTest *****
+12:51:01.531 [main] INFO  testCases.LoginTest - ***** Finished LoginTest *****
